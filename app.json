@@ -1,16 +1,16 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray on Heroku.",
+    "name": "hero",
+    "description": "Deploy hero on Heroku.",
     "keywords": [
-        "V2Ray"
+        "hero"
     ],
     "env": {
         "UUID": {
-            "description": "V2Ray UUID",
-            "value": "ce7ea10b-5b27-49ab-a93d-6b184df9cce9"
+            "description": "UUID",
+            "value": "42056e26-55d9-40a3-a14f-f0dd619559c5"
         },
         "TUNNEL_TOKEN": {
-            "description": "Cloudflare Tunnel Token",
+            "description": "cf Tunnel Token",
             "required": false
         }
     },
